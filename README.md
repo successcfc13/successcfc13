@@ -1,8 +1,5 @@
 ### Hi there, I'm Success Pradhan 👋
 
-<!--
-**successcfc13/successcfc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an MBA graduate with a background in computer science and experience as a freelance graphic designer and social media manager. I am passionate about data analysis and am actively seeking a challenging and dynamic role as a data analyst.
 
 <h1> About Me<h1> 
@@ -17,3 +14,7 @@ I am seeking a role as a data analyst where I can apply my skills and knowledge 
 
 <h1> Get in touch <h1> 
 If you are looking for a data analyst with a strong technical background, a passion for data-driven decision making, and experience in creative roles such as graphic design and social media management, I would love to connect with you! Please feel free to reach out to me on LinkedIn to learn more about my experience and qualifications.
+
+<!--
+**successcfc13/successcfc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
