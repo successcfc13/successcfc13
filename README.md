@@ -13,7 +13,7 @@ I am an MBA graduate with a background in computer science and experience as a f
 I am seeking a role as a data analyst where I can apply my skills and knowledge to make a meaningful impact on the company. I am eager to work in a collaborative and innovative environment where I can continue to learn and grow.<br>
 <br/>
 **Get in touch** <br>
-If you are looking for a data analyst with a strong technical background, a passion for data-driven decision making, and experience in creative roles such as graphic design and social media management, I would love to connect with you! Please feel free to reach out to me on LinkedIn to learn more about my experience and qualifications.
+If you are looking for a data analyst with a strong technical background, a passion for data-driven decision making, and experience in creative roles such as graphic design and social media management, I would love to connect with you! Please feel free to reach out to me on  [LinkedIn](https://www.linkedin.com/in/success-pradhan/) to learn more about my experience and qualifications.
 
 <!--
 **successcfc13/successcfc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
